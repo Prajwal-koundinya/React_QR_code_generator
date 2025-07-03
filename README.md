@@ -90,7 +90,7 @@ npm start
 ### 🖥️ Main Screen
 
 <div align="center">
-  <img src="https://github.com/Prajwal-koundinya/React_QR_code_generator/blob/main/QR-React-app-ex/QR-img-example3.jpg" alt="QR Generator Screenshot" width="600"/>
+  <img src="https://github.com/Prajwal-koundinya/React_QR_code_generator/blob/main/QR-React-app-ex/QR-img-example3.jpg" alt="QR Generator Screenshot" width="714"/>
 </div>
 
 
