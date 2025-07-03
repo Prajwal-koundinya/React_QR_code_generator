@@ -97,25 +97,6 @@ npm start
   <img src="./assets/screenshot.png" alt="QR Generator Screenshot" width="600"/>
 </div>
 
-## 📁 Project Structure
-
-```plaintext
-qr-code-generator/
-│
-├── src/
-│   ├── components/
-│   │   └── QrGenerator.jsx
-│   ├── App.jsx
-│   ├── index.js
-│   └── styles.css
-├── public/
-│   └── index.html
-├── assets/
-│   ├── demo.gif
-│   └── screenshot.png
-├── package.json
-└── README.md
-```
 
 ## ⚙️ Customization
 
@@ -125,15 +106,13 @@ You can tweak QR code styles (size, color, bgColor, etc.) easily inside `QrGener
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-## 📝 License
+## 🤝 **Acknowledgments**
+Special thanks to the medical and AI communities for their valuable datasets and research.  
+Inspirational guidance from **Dr. Victor Ikechukwu**. Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu). 
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## ⭐️ Show your support
+## 📜 License
+This project is licensed under the **MIT License**.
 
-If you like this project, please ⭐️ the repo! It really helps to keep me motivated.
-
-## 🔗 Connect
-
-- LinkedIn: Your Name
-- Twitter: @yourhandle
+---
+🔥 *If you like this project, don't forget to ⭐ it on GitHub!*
