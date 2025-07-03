@@ -11,11 +11,7 @@ Generate custom QR codes instantly for your links, text, or any data you’d lik
 
 ## 📸 Demo
 
-<div align="center">
-  <img src="./assets/demo.gif" alt="QR Code Generator Demo" width="600"/>
-</div>
-
-*(replace `./assets/demo.gif` with your actual path to a gif or screenshot in your repo)*
+### 🔗 [React QR code generator (Live App)](https://claude.ai/public/artifacts/d45e6e0d-2bfd-4f7b-98b3-3a40b7392758?fullscreen=true)
 
 ---
 
