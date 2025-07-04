@@ -102,8 +102,7 @@ You can tweak QR code styles (size, color, bgColor, etc.) easily inside `QrGener
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-## 🤝 **Acknowledgments**
-Special thanks to the medical and AI communities for their valuable datasets and research.  
+## 🤝 **Acknowledgments**  
 Inspirational guidance from **Dr. Victor Ikechukwu**. Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu). 
 
 
